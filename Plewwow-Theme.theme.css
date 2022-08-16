@@ -1,0 +1,40 @@
+/**
+    * @name Plewwow-Theme
+    * @version 1
+    * @description My personal Purple-Yellow theme I use
+    * @author 2k#6272
+    *
+**/
+
+
+:root {
+    --background-primary: #1a051e;
+    --background-secondary: rgb(20 0 25);
+    --background-secondary-alt: rgb(15 0 20);
+    --background-tertiary: rgb(13 0 18);
+    --background-accent: var(--background-secondary-alt);
+    --background-floating: rgb(9 9 9);
+    --channeltextarea-background: rgb(19 0 24);
+    --searcharea-background: var(--background-secondary);
+    --input-background: var(--background-tertiary);
+    --channels-default: #a6c515;
+    --header-primary: #b2d318;
+    --header-secondary: #a6c515;
+    --text-normal: #a5c412;
+    --text-muted: #9dba13;
+    --scroller-thumb: rgb(30, 30, 30);
+    --scroller-track: rgb(10, 10, 10);
+    --background-modifier-rgb: 40, 40, 40;
+    --background-modifier-hover: rgba(var(--background-modifier-rgb), 0.4);
+    --background-modifier-active: rgba(var(--background-modifier-rgb), 0.6);
+    --background-modifier-selected: rgba(var(--background-modifier-rgb), 0.6);
+    --background-modifier-accent: rgba(var(--background-modifier-rgb), 0.48);
+    --interactive-normal: #4d005c;
+    --interactive-hover: #d6d03a;
+    --interactive-active: #dfd938;
+    --interactive-muted: rgb(98 111 31);
+    --elevation-low: 0 1px 0 rgb(40 40 50 / 20%), 0 1.5px 0 rgba(60, 60, 70, 0.05), 0 2px 0 rgba(40, 40, 50, 0.05);
+}
+.brand-3g5E0C.item-3XjbnG, .themed-2-lozF.item-3XjbnG {
+    color: #dad42f;
+}
