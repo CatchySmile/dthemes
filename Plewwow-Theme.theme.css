@@ -1,13 +1,13 @@
 /**
     * @name Plewwow-Theme
-    * @version 1.0.4
+    * @version 1.0.7
     * @description My personal Purple-Yellow theme I use
     * @author 2k#6272
     * @source https://github.com/CatchySmile/dthemes
 **/
 
-/** 
-Main text and elements
+/**
+Main text and Elements
 **/
 :root {
     --background-primary: #1a051e;
@@ -36,6 +36,9 @@ Main text and elements
     --interactive-active: #dfd938;
     --interactive-muted: rgb(98 111 31);
     --elevation-low: 0 1px 0 rgb(40 40 50 / 20%), 0 1.5px 0 rgba(60, 60, 70, 0.05), 0 2px 0 rgba(40, 40, 50, 0.05);
+/**
+# Secondary Text and Elements
+**/
 }
 .brand-3g5E0C.item-3XjbnG, .themed-2-lozF.item-3XjbnG {
     color: #dad42f;
@@ -93,4 +96,16 @@ Main text and elements
     overflow: hidden;
     white-space: nowrap;
     color: #dfd938;
+}
+.scroller-hE2gWq {
+    padding: 16px;
+    height: 100%;
+    border-left: 1px solid var(--background-modifier-accent);
+    margin-left: 2px;
+    background: rgb(20 5 25);
+}
+.wrapper-2RrXDg {
+    background-color: var(--background-secondary);
+    border: 1px solid var(--background-modifier-accent);
+    --background-primary: rgb(15 1 20);
 }
