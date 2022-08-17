@@ -6,7 +6,9 @@
     * @source https://github.com/CatchySmile/dthemes
 **/
 
-
+/** 
+Main text and elements
+**/
 :root {
     --background-primary: #1a051e;
     --background-secondary: rgb(20 0 25);
