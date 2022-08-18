@@ -243,3 +243,41 @@ Main text and Elements
     align-items: center;
     background: rgb(16 3 21);
 }
+.header-1c1AhF {
+    padding: 24px 16px 0;
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    overflow: hidden;
+    background: rgb(10 5 12);
+}
+.container-x8Y1ix {
+    border-radius: 8px;
+    border: 1px solid var(--background-modifier-accent);
+    background-color: var(--background-primary);
+    margin-bottom: 8px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    cursor: pointer;
+    width: 100%;
+    padding: 0;
+    background: rgb(20 5 25);
+}
+.theme-dark .footerSeparator-VzAYwb {
+    -webkit-box-shadow: inset 0 1px 0 hsla(223,calc(var(--saturation-factor, 1)*6.9%),19.8%,.6);
+    box-shadow: inset 0 1px 0 hsla(223,calc(var(--saturation-factor, 1)*6.9%),19.8%,.6);
+    background: rgb(10 5 12);
+}
+.defaultColor-HXu-5n {
+    color: #dfd938;
+}
+.text-md-medium-2avxhQ, .text-md-normal-304U3g {
+    font-family: var(--font-primary);
+    font-size: 16px;
+    line-height: 20px;
+    color: #9f9a1b;
+}
