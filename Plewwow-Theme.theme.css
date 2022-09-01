@@ -453,3 +453,158 @@ Main text and Elements
     width: 100%;
     background: #140519;
 }
+.markup-eYLPri code.inline {
+    width: auto;
+    height: auto;
+    padding: .2em;
+    margin: -.2em 0;
+    border-radius: 3px;
+    font-size: 85%;
+    font-family: Consolas,Andale Mono WT,Andale Mono,Lucida Console,Lucida Sans Typewriter,DejaVu Sans Mono,Bitstream Vera Sans Mono,Liberation Mono,Nimbus Mono L,Monaco,Courier New,Courier,monospace;
+    text-indent: 0;
+    border: none;
+    white-space: pre-wrap;
+    background: rgb(10 5 12);
+}
+.rolePill-2IJ1vo {
+    background-color: var(--profile-role-pill-background-color);
+    background: rgb(10 5 12);
+}
+.overlayBackground-arbZMT {
+    position: relative;
+    margin: 28px 16px 16px;
+    background-color: var(--profile-body-background-color);
+    border-radius: 8px;
+    max-height: calc(100vh - 128px);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    overflow: hidden;
+    background: #140519;
+}
+.divider-1tWBgZ {
+    margin: 12px 12px 0;
+    height: 1px;
+    position: sticky;
+    top: 0;
+    background-color: var(--profile-body-divider-color);
+    opacity: var(--profile-body-divider-opacity);
+    background: #140519;
+}
+.section-3FmfOT {
+    padding: 12px 6px 0 12px;
+    background: #140519;
+}
+.userTagUsernameNoNickname-2e_xaO {
+    color: var(--interactive-active);
+    font-weight: 600;
+    color: #dfd938;
+}
+.userPopoutInnerWithBanner-wsoegj {
+    background: #140519;
+}
+.lookFilled-yCfaCM.colorPrimary-2AuQVo {
+    color: hsl(0,calc(var(--saturation-factor, 1)*0%),100%);
+    background-color: var(--button-secondary-background);
+    background: rgb(10 5 12);
+}
+.formNotice-2nS8ey {
+    padding: 20px;
+    cursor: default;
+    background: rgb(16 3 21);
+}
+.username-h_Y3Us {
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.375rem;
+    color: var(--header-primary);
+    display: inline;
+    vertical-align: baseline;
+    position: relative;
+    overflow: hidden;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    color: #dad42f;
+}
+.channelHeader-DFRX8q {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: var(--background-secondary);
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 64px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: rgb(20 5 25);
+}
+.cozy-VmLDNB .messageContent-2t3eCI {
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+    margin-left: -72px;
+    padding-left: 72px;
+    color: #bdb721;
+}
+.messages-23can0 {
+    background-color: var(--background-primary);
+    border-radius: 8px;
+    padding: 16px 16px 16px 0;
+    background: rgb(23 5 29);
+}
+.tutorial-Nb3Zz5, .tutorialIcon-25VF3Q {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    background: rgb(25 6 32);
+}
+.theme-dark .header-145e10 .tabBar-1qdMr5 .tab-TRrPC8.active-1grPyy {
+    background-color: var(--background-accent);
+    background: rgb(77 0 92);
+}
+.header-145e10 {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 56px;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    min-height: 56px;
+    padding: 12px 16px;
+    background: rgb(10 5 12);
+}
+.size32-1NLMUP {
+    width: 32px;
+    min-width: 32px;
+    height: 32px;
+    min-height: 32px;
+    background: rgb(10 5 12);
+}
+.badge-1ImhlC {
+    border-radius: 20px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin-left: 8px;
+    position: relative;
+    text-shadow: none;
+    top: -1px;
+    background: rgb(96 6 113);
+    color: #dfd938;
+}
