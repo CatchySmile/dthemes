@@ -1,6 +1,6 @@
 /**
     * @name Plewwow-Theme
-    * @version 1.0.7
+    * @version 1.0.9
     * @description My personal Purple-Yellow theme I use
     * @author 2k#6272
     * @source https://github.com/CatchySmile/dthemes
@@ -361,4 +361,95 @@ Main text and Elements
     -ms-flex-align: center;
     align-items: center;
     background: rgb(23 5 29);
+}
+.packHeader-w9jpYl {
+    position: sticky;
+    top: 0;
+    background: rgb(20 5 25);
+}
+.list-obNEuP {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgb(16 3 21);
+}
+.inspector-DFKXwB {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 48px;
+    width: 100%;
+    padding: 0 16px;
+    background-color: var(--background-secondary-alt);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    overflow: hidden;
+    background: rgb(16 3 21);
+}
+.standardStickerShortcut-ObSns3 {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background: inherit;
+    color: var(--interactive-normal);
+    cursor: pointer;
+    bottom: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 48px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    left: 0;
+    opacity: 1;
+    position: absolute;
+    -webkit-transition: opacity .1s,-webkit-transform .1s;
+    transition: opacity .1s,-webkit-transform .1s;
+    transition: opacity .1s,transform .1s;
+    transition: opacity .1s,transform .1s,-webkit-transform .1s;
+    width: 100%;
+    background: rgb(16 3 21);
+}
+.headerLabel-1g790w {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+    white-space: nowrap;
+    margin-right: 8px;
+    color: #bdb721;
+}
+.userPopoutInnerNonPremium-3zrFkp {
+    background: linear-gradient(transparent 60px,var(--profile-gradient-primary-color) 0,var(--profile-gradient-secondary-color));
+    background: rgb(23 5 29);
+}
+.userPopoutInnerWithBanner-wsoegj {
+    background: linear-gradient(transparent 120px,var(--profile-gradient-primary-color) 0,var(--profile-gradient-secondary-color));
+    background: rgb(20 5 25);
+}
+.textarea-_59yqs {
+    background-color: transparent;
+    border: none;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: var(--text-normal);
+    font-size: 12px;
+    line-height: 14px;
+    max-height: 88px;
+    padding: 4px;
+    resize: none;
+    width: 100%;
+    background: #140519;
 }
