@@ -1,6 +1,6 @@
 
  ___________________________________
- <h2></h2> <h1># Discord Theme</h1> <h4>Ver 1.0.7</h4>
+ <h2></h2> <h1># Discord Theme</h1> <h4>Ver 1.1.0</h4>
 <h2> # Requirements : </h2>
  <h3><a class='btn btn-link' href='https://betterdiscord.app'>BetterDiscord /or/ A Theme Manager /or/ Apply yourself in console (For smarties) </a></h3>
  <h5> _________________________________________________________________________________ </h5>
