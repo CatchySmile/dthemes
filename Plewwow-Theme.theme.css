@@ -1,6 +1,6 @@
 /**
     * @name Plewwow-Theme
-    * @version 1.0.9
+    * @version 1.1
     * @description My personal Purple-Yellow theme I use
     * @author 2k#6272
     * @source https://github.com/CatchySmile/dthemes
@@ -607,4 +607,35 @@ Main text and Elements
     top: -1px;
     background: rgb(96 6 113);
     color: #dfd938;
+}
+.root-2s1-ri>* {
+    background-color: var(--modal-background);
+    background: rgb(16 3 21);
+}
+.userProfileInnerNonPremium-1XjSjn {
+    background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-primary-color) 60px,var(--profile-gradient-secondary-color));
+    background: rgb(23 5 29);
+}
+.userProfileInnerWithBanner-3CJ1Og {
+    background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-primary-color) 120px,var(--profile-gradient-secondary-color));
+    background: rgb(23 5 29);
+}
+.profileBadges-31rDHI {
+    position: relative;
+    top: 12px;
+    right: 16px;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    -ms-flex-item-align: end;
+    align-self: flex-end;
+    background-color: var(--profile-body-background-color);
+    border-radius: 8px;
+    max-width: 190px;
+    background: rgb(10 5 12);
+}
+.userPopoutOverlayBackground-dKOOda {
+    margin: 28px 16px 16px;
+    max-height: calc(100vh - 128px);
+    background: #140519;
 }
