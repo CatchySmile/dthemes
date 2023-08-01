@@ -1,8 +1,8 @@
 /**
     * @name Plewwow-Theme
-    * @version 1.1
+    * @version 1.2
     * @description My personal Purple-Yellow theme I use
-    * @author 2k#6272
+    * @author 2k0y
     * @source https://github.com/CatchySmile/dthemes
 **/
 
@@ -703,4 +703,123 @@ Main text and Elements
     transition: background-color .1s ease-in-out;
     width: 24px;
     background: rgb(23 5 29);
+}
+.userPanelOverlayBackground-3Zmcq2, .userProfileModalOverlayBackground-2dAaBg {
+    margin: 16px;
+    background: rgb(20 5 25);
+}
+.badgelistGroup-_4Ddiq {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    min-height: 28px;
+    margin: 8px 16px 0 0;
+    background: rgb(16 3 21);
+}
+.none-1rXy4P {
+    scrollbar-width: none;
+    background: rgb(16 3 21);
+}
+.badgeList-2hF9ig {
+    background-color: var(--profile-body-background-color);
+    border-radius: 4px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    max-width: 198px;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin-left: auto;
+    height: 100%;
+    background: rgb(23 5 29);
+}
+.button-12Fmur.enabled-9OeuTA:hover {
+    color: var(--interactive-hover);
+    background-color: rgb(45 0 60);
+}
+.scroller-nxCRu_ {
+    padding: 6px 8px;
+    background: rgb(16 3 21);
+}
+.optionName-1ebPjH {
+    margin-left: 8px;
+    color: #dfd938;
+}
+.tipSubtext-qn0l_- {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    color: #bdb721;
+}
+.userProfileInnerThemedNonPremium-2AJg-H {
+    background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-primary-color) 60px,var(--profile-gradient-secondary-color));
+    background: rgb(16 3 21);
+}
+.scroller-15bIdk {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    min-height: 0;
+    padding: 0 12px;
+    background: #140519;
+}
+.customStatusSection-2_fKRl, .usernameSection-3FppkT {
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-left: 12px;
+    background: #140519;
+}
+.divider-1QVlfF {
+    margin: 12px 12px 0;
+    background: rgb(20 5 25);
+}
+.userPopoutOverlayBackground-3A0Pcz {
+    margin: 28px 16px 16px;
+    max-height: calc(100vh - 128px);
+    background: rgb(16 3 21);
+}
+.rolePill-78LFtg {
+    background-color: var(--profile-role-pill-background-color);
+    background: rgb(34 6 44);
+}
+.nickname-3P1RuO {
+    word-break: break-word;
+    color: #dfd938;
+}
+.userTagUsernameBase-267ALn {
+    overflow: auto;
+    word-break: break-all;
+    text-overflow: unset;
+    white-space: normal;
+    color: var(--header-primary);
+    vertical-align: top;
+    display: inline;
+    color: #cbc52a;
+}
+.pronouns-17_QV6 {
+    display: inline-block;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding-top: 2px;
+    color: #bdb721;
+}
+.title-3CjiSS {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-weight: 700;
+    margin-bottom: 6px;
+    color: #dfd938;
+}
+.overlayBackground-2aa7wt * {
+    scrollbar-color: var(--profile-body-divider-color) var(--scrollbar-thin-track);
+    color: #bdb721;
 }
