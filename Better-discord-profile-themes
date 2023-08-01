@@ -1,0 +1,33 @@
+/**
+    * @name Better Profile Themes
+    * @version 1.0
+    * @description Makes nitro profile themes more appealing!
+    * @author 2k#6272
+    * @source https://github.com/CatchySmile/dthemes
+**/
+
+/**
+Main text and Elements
+**/
+.customStatusSection-2_fKRl, .usernameSection-3FppkT {
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-left: 12px;
+    background: #140519;
+    background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-primary-color) 120px,var(--profile-gradient-secondary-color));
+}
+.scroller-15bIdk {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    min-height: 0;
+    padding: 0 12px;
+    background: #140519;
+    background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-primary-color) 120px,var(--profile-gradient-secondary-color));
+}
+.userPopoutOverlayBackground-3A0Pcz {
+    margin: 28px 16px 16px;
+    max-height: calc(100vh - 128px);
+    background: rgb(16 3 21);
+    background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-primary-color) 120px,var(--profile-gradient-secondary-color));
+}
