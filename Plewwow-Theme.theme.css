@@ -1,8 +1,8 @@
 /**
     * @name Plewwow-Theme
-    * @version 1.2
+    * @version 1.1
     * @description My personal Purple-Yellow theme I use
-    * @author 2k0y
+    * @author 2k#6272
     * @source https://github.com/CatchySmile/dthemes
 **/
 
@@ -822,4 +822,31 @@ Main text and Elements
 .overlayBackground-2aa7wt * {
     scrollbar-color: var(--profile-body-divider-color) var(--scrollbar-thin-track);
     color: #bdb721;
+}
+.scrollerContent-3gSNmp {
+    padding: 80px 100px 40px;
+    background: rgb(23 5 29);
+}
+.lookFilled-1H2Jvj.colorPrimary-2-Lusz {
+    color: var(--white-500);
+    background-color: var(--button-secondary-background);
+    background: rgb(38 1 45);
+}
+@media (max-width: 1300px)
+.homeContainer-1T8N7y {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: normal;
+    -ms-flex-pack: normal;
+    justify-content: normal;
+    padding-right: 32px;
+    background: rgb(20 5 25);
+}
+.welcomeMessageContent-1ZqlKh {
+    padding: 4px 16px 16px;
+    overflow-wrap: anywhere;
+    min-height: 56px;
+    background: rgb(23 5 29);
 }
