@@ -850,3 +850,33 @@ Main text and Elements
     min-height: 56px;
     background: rgb(23 5 29);
 }
+.theme-dark .container-2IKOsH, .theme-dark .header-3xB4vB {
+    background-color: #2c2e33;
+    background: rgb(23 5 29);
+}
+.pageBody-29jwEZ, .scroller-1fIBSS {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-direction: normal;
+    gap: 16px;
+    background: rgb(20 5 25);
+}
+.top-Ktfr_T .item-2GWPIy {
+    border-bottom: 2px solid transparent;
+    color: #dfd938;
+}
+.lookOutlined-3RTC7c.colorPrimary-2-Lusz {
+    color: var(--button-outline-primary-text);
+    border-color: var(--button-outline-primary-border);
+    border-color: rgb(10 5 12);
+}
+.pageBody-23bo4p {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding: 16px 0 0 16px;
+    min-height: 0;
+    background: rgb(20 5 25);
+}
