@@ -880,3 +880,8 @@ Main text and Elements
     min-height: 0;
     background: rgb(20 5 25);
 }
+.channelRow-4X_3fi:hover .viewChannelButton-59XD70 {
+    display: block;
+    background: rgb(20 5 25);
+    border-color: rgb(10 5 12);
+}
