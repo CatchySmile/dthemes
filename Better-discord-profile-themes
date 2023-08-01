@@ -2,27 +2,20 @@
     * @name Better Profile Themes
     * @version 1.0
     * @description Makes nitro profile themes more appealing!
-    * @author 2k#6272
+    * @author 2k0y
     * @source https://github.com/CatchySmile/dthemes
 **/
 
 /**
 Main text and Elements
 **/
+.container-1gYwHN {
+  min-height: unset;
+}
 .customStatusSection-2_fKRl, .usernameSection-3FppkT {
     padding-top: 12px;
     padding-right: 12px;
     padding-left: 12px;
-    background: #140519;
-    background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-primary-color) 120px,var(--profile-gradient-secondary-color));
-}
-.scroller-15bIdk {
-    -webkit-box-flex: 0;
-    -ms-flex: 0 1 auto;
-    flex: 0 1 auto;
-    min-height: 0;
-    padding: 0 12px;
-    background: #140519;
     background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-primary-color) 120px,var(--profile-gradient-secondary-color));
 }
 .userPopoutOverlayBackground-3A0Pcz {
@@ -30,4 +23,34 @@ Main text and Elements
     max-height: calc(100vh - 128px);
     background: rgb(16 3 21);
     background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-primary-color) 120px,var(--profile-gradient-secondary-color));
+}
+.text-sm-medium-2-Xzsi, .text-sm-normal-AEQz4v {
+    text-shadow: -0.6px -0.6px 0 #000, 0.6px -0.6px 0 #000, -0.6px 0.6px 0 #000, 1px 1px 0 #000;
+}
+.nickname-3P1RuO {
+    text-shadow: -0.6px -0.6px 0 #000, 0.6px -0.6px 0 #000, -0.6px 0.6px 0 #000, 1px 1px 0 #000;
+}
+.customStatusText-V9aTHE {
+    text-shadow: -0.6px -0.6px 0 #000, 0.6px -0.6px 0 #000, -0.6px 0.6px 0 #000, 1px 1px 0 #000;
+}
+.title-3CjiSS {
+    text-shadow: -0.6px -0.6px 0 #000, 0.6px -0.6px 0 #000, -0.6px 0.6px 0 #000, 1px 1px 0 #000;
+}
+.text-sm-medium-2-Xzsi, .text-sm-normal-AEQz4v {
+    text-shadow: -0.6px -0.6px 0 #000, 0.6px -0.6px 0 #000, -0.6px 0.6px 0 #000, 1px 1px 0 #000;
+}
+.roleNameOverflow-Xok3NR {
+    text-shadow: -0.6px -0.6px 0 #000, 0.6px -0.6px 0 #000, -0.6px 0.6px 0 #000, 1px 1px 0 #000;
+}
+.eyebrow-1Shfyi, .heading-deprecated-12-normal-2QSQ4R {
+    text-shadow: -0.6px -0.6px 0 #000, 0.6px -0.6px 0 #000, -0.6px 0.6px 0 #000, 1px 1px 0 #000;
+}
+.textarea-_59yqs {
+    text-shadow: -0.6px -0.6px 0 #000, 0.6px -0.6px 0 #000, -0.6px 0.6px 0 #000, 1px 1px 0 #000;
+}
+.top-Ktfr_T .item-2GWPIy {
+    text-shadow: -0.6px -0.6px 0 #000, 0.6px -0.6px 0 #000, -0.6px 0.6px 0 #000, 1px 1px 0 #000;
+}
+.userProfileInnerThemedNonPremium-2AJg-H {
+    background: rgb(18 18 20 / 40%);
 }
